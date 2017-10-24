@@ -1,6 +1,5 @@
 # vestaCP
-apache webserver
-NO MAIL + NO DNS etc
+just apache, ip-fail, mysql
 
 how to install vestacp file manager
 
