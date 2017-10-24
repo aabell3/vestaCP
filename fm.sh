@@ -1,6 +1,6 @@
 #!/bin/bash
 # go to root
 cd
-wget -O /usr/local/vesta/conf/vesta.conf "https://raw.githubusercontent.com/aabell3/vestaCP/master/vesta.conf"
+wget -O /usr/local/vesta/conf/vesta.conf "https://raw.githubusercontent.com/aabell3/vestaCP/master/vesta2.conf"
 cd
 echo "VestaCP File Manager Installed By Tukiyem All Aluwallah"
